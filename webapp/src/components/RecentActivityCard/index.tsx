@@ -27,8 +27,6 @@ function RecentActivityCard() {
     order: Order.DESC
   });
 
-  console.log(recentActivities);
-
   return (
     <Card>
       <CardContent>
